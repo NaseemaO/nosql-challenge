@@ -6,8 +6,18 @@ Part I: Per Git Bash 39779 documents were imported successfully into the uk_food
 994 documents were deleted with the LocalAuthorityName of Dover.  1 New restauranted document added. 
 Total remaining documents: 38786
 
-Part II: 41 documents have the Hygiene score of 20. The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse ; the higher the value, the worse the establishment is in these areas.
+Part II: 
+The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse ; the higher the value, the worse the establishment is in these areas.
+41 Establishments have the Hygiene score of 20. 
+34 establishments in London that have a RatingValue greater than or equal to 4.
+The top 5 Establishments (Business Names) with a Rating Value of 5, sorted by the Hygeine Score in ascending order that are closest to the new Panang Restaurant are: 
+1. Volunteer
+2. Plumstead Manor Nursery
+3. Atlantic Fish Bar
+4. Iceland
+5. Howe and Co Fish and Chips - Van 17
 
+There are 56 Establishements in each of the Local Authority with a Hygiene Score of 0. The higher the score the worse in this hygiene area.
 
 Instructions: 
 Set up and code: 
